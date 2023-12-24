@@ -1,4 +1,4 @@
-# [WebShell | Terminal Portfolio Website](https://qurashi.netlify.app/)
+# [WebShell | Terminal Portfolio Website](https://web-sh.netlify.app/)
 
 <div align="center">
   <img alt="banner" src="https://raw.githubusercontent.com/majid-qurashi/webshell/main/res/banner.png">
